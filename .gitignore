@@ -1,0 +1,33 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper-downloader.jar
+mvnw
+mvnw.cmd
+
+### Logs ###
+*.log
+
+### Spring Boot ###
+# Embedded Tomcat / Jetty logs, temp files
+*.pid
+*.seed
+*.key
+*.db
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+### Other ###
+# Ignore IDE-specific metadata
+*.swp
+*.swo
+*.bak
