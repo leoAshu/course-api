@@ -1,4 +1,4 @@
-package org.leoashu.topic;
+package org.leoashu.courseapi.topic;
 
 public class Topic {
 
